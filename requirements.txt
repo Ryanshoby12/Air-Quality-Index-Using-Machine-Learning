@@ -1,0 +1,22 @@
+Required Libraries
+
+1. Data Handling
+pandas → Data manipulation & preprocessing
+numpy → Numerical computations
+
+2. Data Visualization
+matplotlib → Plotting graphs
+seaborn → Advanced statistical visualizations
+
+3. Machine Learning (Scikit-Learn)
+scikit-learn → ML models and evaluation
+train_test_split
+RandomForestClassifier
+AdaBoostClassifier
+LogisticRegression
+accuracy_score
+classification_report
+confusion_matrix
+
+4. Model Saving
+pickle → Save trained models (.pkl files)
